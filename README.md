@@ -67,7 +67,7 @@ There are three ways you can run the project:
 
 <!-- you may add more controls if you need to. -->
 
-##FAQ:
+## FAQ:
 
 # 1) "I can't run jar." Update your java version.
 
