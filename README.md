@@ -1,4 +1,5 @@
 # csc413-pongGame
+# about: Pong game with powerups
 
 
 | Student Information |                |
@@ -57,6 +58,10 @@ There are three ways you can run the project:
 |  Up           |   W      |    Up    |
 |  Down         |   S      |   Down   |
 
+## Powerups:
+Lighting: SpeedUp
+RedArrows: Duplicate
+-1: Decrease both users points but can't drop below 0.
 
 <!-- you may add more controls if you need to. -->
 
