@@ -69,5 +69,5 @@ There are three ways you can run the project:
 
 ## FAQ:
 
- **1) "I can't run jar." Update your java version.
+ **1) "I can't run jar." Update your java version.**
 
