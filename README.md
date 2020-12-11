@@ -50,7 +50,7 @@ There are three ways you can run the project:
 
 3. Running the program through the launcher class in your IDE.
 
-## Controls to play your Game:
+## Controls to play:
 
 |               | Player 1 | Player 2 |
 |---------------|----------|----------|
