@@ -60,7 +60,9 @@ There are three ways you can run the project:
 
 ## Powerups:
 Lighting: SpeedUp
+
 RedArrows: Duplicate
+
 -1: Decrease both users points but can't drop below 0.
 
 <!-- you may add more controls if you need to. -->
